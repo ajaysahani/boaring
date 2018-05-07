@@ -1,0 +1,16 @@
+*.out
+*.test
+*.xml
+*.swp
+.idea/
+*.iml
+*.cov
+*.html
+.tmp/
+/vendor
+.DS_Store
+test
+test.log
+
+# Executables produced by boaring repo
+/src*
