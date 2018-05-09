@@ -2,3 +2,6 @@ package: github.com/ContinuumLLC/boaring/src
 import:
 - package: github.com/fatih/color
   version: ~1.6.0
+- package: github.com/urfave/cli
+  version: v1.20.0
+- package: github.com/gocql/gocql
